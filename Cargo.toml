@@ -1,0 +1,10 @@
+[package]
+name = "eternal-mana"
+version = "0.1.0"
+authors = ["Ben Segall <talchas@talchas.net>"]
+
+[dependencies]
+rand = "0.3"
+maplit = "0.1.4"
+histogram = "0.6.6"
+arrayvec = "0.3.23"
